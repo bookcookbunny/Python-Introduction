@@ -68,7 +68,7 @@ import numpy as np
 
 # In[18]:
 
-
+ 
 np.nan
 
 
